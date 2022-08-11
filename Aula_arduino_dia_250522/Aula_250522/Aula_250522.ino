@@ -1,6 +1,7 @@
 //Programa: Conectando Sensor Ultrassonico HC-SR04 ao Arduino
-//Autor: FILIPEFLOP
- 
+//Adaptado do blog FilipeFlop
+// Código no TinkerCad:https://www.tinkercad.com/things/iH1dUCL9QVP?sharecode=GILwnCu6ATcuOyHDbuI7TK6NpEE6T-oRQn3IRZzxt6k
+
 //Carrega a biblioteca do sensor ultrassonico
 #include <Ultrasonic.h>
  
