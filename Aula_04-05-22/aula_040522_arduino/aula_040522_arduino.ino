@@ -10,6 +10,7 @@ Nome: Atividade - Uso do led RGB como se fosse PWM
 Uso do Kit Arduíno Uno em ambiente  Arduíno IDE. 
 */
 
+// Código no TinkerCad: https://www.tinkercad.com/things/6hOZAi2UVci?sharecode=A5n8EIEOnUcfsgPyWI_uoe38jxFT-IVcMq2BWJngxxc 
 void setup() {
   // put your setup code here, to run once:
 
