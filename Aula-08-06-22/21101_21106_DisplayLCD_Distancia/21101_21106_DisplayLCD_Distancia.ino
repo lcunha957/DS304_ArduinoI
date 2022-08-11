@@ -6,6 +6,10 @@
  * 21106 - Lunara Cunha
  * Display LCD com sensor de distância
 */
+
+// Código pra funcionar exclusivamente no TinkerCad, sem biblioteca de Ultrassom (a montagem é a mesma):
+//https://www.tinkercad.com/things/iP4Pg4PBJvf?sharecode=jJ_pVXOcHaCJF3hyvsf-5xOtscGCnXgbWQze0IlDEzc
+
 #include <LiquidCrystal.h>
 #include <Ultrasonic.h>
 
