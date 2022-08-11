@@ -1,3 +1,4 @@
+// Código tinkercad:https://www.tinkercad.com/things/gQQs8OkwkPq?sharecode=leqy9IO7DQM3PzpAV84Oz6hVT92Q6V4WZn5q_ok4bFs 
 //Carrega a biblioteca LiquidCrystal
 #include <LiquidCrystal.h>
  
