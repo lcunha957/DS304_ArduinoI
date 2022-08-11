@@ -2,7 +2,7 @@
 // 21101 - Leandro Freitas
 // 21106 - Lunara Cunha
 // Disciplina: DS303, curso 59 noturno
-
+// Projeto com montagem no TinkerCad: https://www.tinkercad.com/things/2X8NSYFL0e7-2110121106tresledsnobrowser/editel 
 
 int led1 = 2;
 int led2 = 4;
