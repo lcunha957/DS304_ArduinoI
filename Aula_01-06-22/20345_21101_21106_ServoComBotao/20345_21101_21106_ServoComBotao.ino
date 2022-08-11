@@ -6,6 +6,8 @@
  *  21106 - Lunara Cunha
  *
 */
+// Código no TInkercad: https://www.tinkercad.com/things/3i9RSdozurN?sharecode=nowqoTegAZZlsdFpesSnJhr2yl_DGlqUHlpMAhcwEl0
+
 // Include the Servo library 
  
 #include <Servo.h>
