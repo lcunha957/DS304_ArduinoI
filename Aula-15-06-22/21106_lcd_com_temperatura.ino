@@ -6,8 +6,8 @@
 //RA 21106 - Lunara Morena Cunha
 //Data: 15-06-2022
 //Atividade: Display LCD com sensor de temperatura
-
-#include <LiquidCrystal.h>
+// Link no TinkerCad: https://www.tinkercad.com/things/bWWkCsOiuIN?sharecode=_k0eesRYC9jgKgYs78UCt4Iz0gwKIpsc9YGCWwC9G4U
+#include <LiquidCrystal.h>/
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 int temperatura = A0;
 
