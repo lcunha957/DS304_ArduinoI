@@ -7,6 +7,8 @@
 * Usando o Neo Ring
 */
 
+// Link no TinkerCad: https://www.tinkercad.com/things/h48sq07915i?sharecode=C7FJJnnnCxFXT4tZlz6SXVAjO8ZOHP9Dchyl4ZjScqA
+
 #define LED_PIN 6
 #define LED_COUNT 24
 //ANEL RGB COM VELOCIDADE
