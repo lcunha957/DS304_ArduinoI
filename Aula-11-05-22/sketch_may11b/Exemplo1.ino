@@ -1,5 +1,5 @@
 // ## Display LCD 16x2
-
+// Projeto original no TinkerCad: https://www.tinkercad.com/things/7AJEpnpyOsD-display-tela-lcd-16x2-arduino-project 
 #include <LiquidCrystal.h>
 
 // initialize the library by associating any needed LCD interface pin
